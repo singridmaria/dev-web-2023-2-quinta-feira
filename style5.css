@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+}
+.my-col{
+    background-color: red;
+    border: 1px solid black;
+}
